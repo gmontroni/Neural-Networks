@@ -1,4 +1,4 @@
-# neural-networks-discipline
+# Neural Networks Discipline
 ## This repository is reserved for the discipline SCC5809 - Artificial Neural Networks.
 ### Neural Networks
 
