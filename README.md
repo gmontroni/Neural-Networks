@@ -1,6 +1,5 @@
-# Neural Networks Discipline
-## This repository is reserved for the discipline SCC5809 - Artificial Neural Networks.
-### Neural Networks
+# Neural Networks
+## This repository is reserved for Artificial Neural Networks.
 
 Artificial Neural Networks (ANN) are computational techniques that present a mathematical model mathematical model inspired by the structure of a human brain, aiming to abstractly in an abstract way the nervous system in the learning process. The nervous system in turn, houses a complex set of cells, the neurons. The human brain holds billions of neurons, capable of processing and communicating with thousands more in a continuous and parallel fashion. A
 communication between them is subdivided into three parts.
